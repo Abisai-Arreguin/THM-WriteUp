@@ -13,7 +13,7 @@ Target machine was located at `10.10.245.134`
 
 Start an Nmap scan: `nmap -T4 10.10.245.134`
 
-![Open Port](./SCreenshots/1-1.png?raw=true 'Open Port')
+![Open Port](./Screenshots/1-1.png?raw=true 'Open Port')
 
 ### There is an open port outside the common 1000 ports; it is above 10,000. What is it?
 
