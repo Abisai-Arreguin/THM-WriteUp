@@ -27,14 +27,14 @@ Desired certification:
 As you progress and advance your skills as a Junior Security Analyst, you will eventually move up to Tier 2 and Tier 3.
 
 An overview of the Security Operations Center (SOC) Three-Tier Model:
-![SOC Three-Tier Model](/Images/Three-Tier Model.png "Three-Tier Model")
+![SOC Three-Tier Model]("./Images/Three-Tier Model.png" "Three-Tier Model")
 ## Security Operations Center (SOC)
 
 ### So, what exactly is a SOC?
 
 The core function of a SOC (Security Operations Center) is to investigate, monitor, prevent, and respond to threats in the cyber realm 24/7 or around the clock. Per [McAfee's definition of a SOC](https://www.mcafee.com/enterprise/en-us/security-awareness/operations/what-is-soc.html),  "Security operations teams are charged with monitoring and protecting many assets, such as intellectual property, personnel data, business systems, and brand integrity. As the implementation component of an organization's overall cybersecurity framework, security operations teams act as the central point of collaboration in coordinated efforts to monitor, assess, and defend against cyberattacks". The number of people working in the SOC can vary depending on the size of the organization. 
 
-![SOC - Responsibilities](/Images/SOC.png "What is included in the responsibilities for the SOC>")
+![SOC - Responsibilities](./Images/SOC.png "What is included in the responsibilities for the SOC>")
 
 ### Preparation and Prevention
 
@@ -67,7 +67,7 @@ Are you ready to immerse yourself into the role of a Junior Security Analyst for
 
 ### What was the malicious IP address in the alerst?
 
-![Malicious IP](/Images/3-2.png "Malicious IP")
+![Malicious IP](./Images/3-2.png "Malicious IP")
 
 ### To whom did you escalate the event associated with the malicious IP address?
 
@@ -75,4 +75,4 @@ SOC Team Lead
 
 ### After blocking the malicious IP Address on the firewall, what message did the malicious actor leave for you?
 
-![Flag](/Images/3-4.png "Flag")
+![Flag](./Images/3-4.png "Flag")
