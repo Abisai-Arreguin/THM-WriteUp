@@ -27,7 +27,7 @@ Desired certification:
 As you progress and advance your skills as a Junior Security Analyst, you will eventually move up to Tier 2 and Tier 3.
 
 An overview of the Security Operations Center (SOC) Three-Tier Model:
-![SOC Three-Tier Model]("./Images/Three-Tier Model.png" "Three-Tier Model")
+![SOC Three-Tier Model](./Images/Three-Tier.png "Three-Tier Model")
 ## Security Operations Center (SOC)
 
 ### So, what exactly is a SOC?
